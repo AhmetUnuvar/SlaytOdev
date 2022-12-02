@@ -1,0 +1,7 @@
+C:\Users\unuva\source\repos\GamzeHocaOdev3\GamzeHocaOdev3\obj\Debug\GamzeHocaOdev3.csprojAssemblyReference.cache
+C:\Users\unuva\source\repos\GamzeHocaOdev3\GamzeHocaOdev3\obj\Debug\GamzeHocaOdev3.csproj.CoreCompileInputs.cache
+C:\Users\unuva\source\repos\GamzeHocaOdev3\GamzeHocaOdev3\bin\Debug\GamzeHocaOdev3.exe.config
+C:\Users\unuva\source\repos\GamzeHocaOdev3\GamzeHocaOdev3\bin\Debug\GamzeHocaOdev3.exe
+C:\Users\unuva\source\repos\GamzeHocaOdev3\GamzeHocaOdev3\bin\Debug\GamzeHocaOdev3.pdb
+C:\Users\unuva\source\repos\GamzeHocaOdev3\GamzeHocaOdev3\obj\Debug\GamzeHocaOdev3.exe
+C:\Users\unuva\source\repos\GamzeHocaOdev3\GamzeHocaOdev3\obj\Debug\GamzeHocaOdev3.pdb
